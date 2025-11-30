@@ -1,0 +1,168 @@
+Funzione;Operazione;Tempistica_GG;Tempistica_descrizione;Di_cosa_ho_bisogno;Da_chi;Note
+Merchandising;Bozze layout scaffalature;8.0;8;"""Planimetria stabile, mq licenza, n° casse, scelta bozza""";"""Tecnico, Sviluppo, Vendite""";"""Con indicazioni generali (accessi, U.S., scorta merci...)"""
+Merchandising;Estrazione dati redditività facing;1.0;1;Indicazione negozio di riferimento;Vendite;
+Merchandising;Definizione estensione reparti;10.0;10;"""Indicazioni generali, dettaglio estensione famiglie""";Vendite;Auspicabile incontro con acquisti
+Merchandising;Dettaglio layout commerciale;10.0;10;"""Scelta fornitori alternativi, distribuzione spazi""";Acquisti;
+Merchandising;Verifica/correzioni layout facing;5.0;5;;Vendite + Acquisti;
+Merchandising;Modifica layout scaffalature;3.0;3;;;
+Merchandising;Abbinamento facing;2.0;2;Codice negozio in KLEE;Informatica;
+Merchandising;Elenco espositori fornitori;1.0;1;;;
+Merchandising;Invio planimetria a fornitore ODK;25.0;25;;Fornitore;Media giorni lavorativi per ricezione progetto
+Merchandising;Invio planimetria a fornitori corner;1.0;1;;;
+Merchandising;Layout barriera casse a Resp. Sicurezza;5.0;5;Ricezione progetto barriere antitaccheggio;Sicurezza;Per indicazioni impianto elettrico secondario
+Merchandising;Layout definitivo a ufficio tecnico;1.0;1;;;Per VVFF
+Merchandising;Indicazioni impianto elettrico a tecnico;1.0;1;;;
+Merchandising;Conteggio attrezzature e accessori;5.0;5;;;
+Merchandising;Individuazione attrezzature in scorta;1.0;1;;Logistica;Preparazione prelievo Pavia
+Merchandising;Ordine attrezzature mancanti;1.0;1;Definizione data consegna;Tecnico;Necessarie 8 settimane da ordine a consegna
+Merchandising;Conteggio materiali allestimento;4.0;4;;;
+Merchandising;Preparazione guide per allestimento;2.0;2;;;
+Merchandising;Ordine materiali allestimento;2.0;2;Definizione data consegna;Tecnico;Necessarie 2/3 settimane da ordine a consegna
+Merchandising;Ordine carrelli e trolley;1.0;1;Definizione data consegna;;Necessarie 4 settimane da ordine a consegna
+Merchandising;Spiegazione progetto allestitore;1.0;1;Individuazione allestitore;Vendite;
+Merchandising;Individuazione allestitori esterni;5.0;5;;;
+Merchandising;Comunicazione interventi ditte esterne;2.0;2;;Resp. Sicurezza;
+Merchandising;Invio layout definitivo;1.0;1;;;"""Ad Acquisti, C. Gestione, Marketing"""
+Merchandising;Estrazione e stampa etichette;5.0;5;Verifica trasmissione dati;Informatica;
+Merchandising;Stampa ed invio documenti;5.0;5;;;
+Merchandising;Allestimento materiale per uffici e spogliatoi;30.0;30;Numero dipendenti e planimetria uffici;;"""Ordine armadietti, arredi ufficio"""
+Affari Generali;Comunicazione Assicurazione;90.0;90;"""Data insediamento, valori da assicurare, info cassaforte""";"""Tecnico/Sviluppo, Legale, Logistica/Tesoreria""";
+Affari Generali;Comunicazione Apertura SUAP;30.0;30;"""Planimetria, copia CPI, certificato notarile/contratto""";"""Tecnico/Merchandising/Sviluppo, Legale""";
+Affari Generali;Previsione Area Alimentare;;;"""Planimetria area alimentare, elenco prodotti""";"""Tecnico/Merchandising, Acquisti""";
+Affari Generali;Tassa Rifiuti;20.0;20;"""Planimetria PDV fedele, indicazione aree lavorazione/rifiuti""";Tecnico/Merchandising;Indicazione aree esterne e parcheggio
+Affari Generali;Tassa ICP;20.0;20;"""Bozzetti insegne, autorizzazioni, documentazione cartellonistica""";"""Tecnico, Marketing""";Fotografie/immagini con metratura
+Affari Generali;Iscrizioni Albi/Enti;20.0;20;Informazioni dai settori;Tutti;"""Es. FGAS, consegne a domicilio"""
+Affari Generali;Registro Rifiuti/Credenziali Lindberg;40.0;40;"""Dati anagrafici PDV, dati operatore""";Capo Area/Personale;
+Affari Generali;Richiesta Timbri;40.0;40;Richiesta formale;Capo Area;Prima dell'allestimento
+Affari Generali;Corrispettivi di Emergenza;20.0;20;Richiesta formale;Capo Area;
+Affari Generali;Attivazione Corriere Interno/MBE;40.0;40;"""Richiesta mail, telefono, nominativo operatore""";Capo Area-IT;
+Amministrazione-Tesoreria;Validazione piano economico-finanziario;45.0;45;;;
+Amministrazione-Tesoreria;Caricamento budget e business case;1.0;1;;;Dopo approvazione ripartizione costi
+Amministrazione-Tesoreria;Creazione Centro di Costo;20.0;20;;;Entro 1gg da creazione divisione
+Amministrazione-Tesoreria;Creazione del Profit Center;20.0;20;Definizione divisione SAP;Informatica;Entro 1gg da creazione divisione
+Amministrazione-Tesoreria;Rilascio fidejussione a locatore;10.0;10;Contratto locazione;Sviluppo;
+Amministrazione-Tesoreria;Contratti POS (config. Terminal ID);25.0;25;Quantità terminali e casse;IT - Vendite;
+Amministrazione-Tesoreria;Installazione POS (config. Terminal ID);25.0;25;Data installazione casse;IT;
+Amministrazione-Tesoreria;Addendum (AmEx, Cofidis, Satispay, etc.);25.0;25;Quantità POS/nr. casse;IT / Vendite;
+Amministrazione-Tesoreria;Attivazione (AmEx, Satispay, etc.);25.0;25;Quantità POS/nr. casse;IT;
+Amministrazione-Tesoreria;Addendum contratto trasporto valori G4;30.0;30;;G4;
+Amministrazione-Tesoreria;Addendum BPER;30.0;30;;G4/BPER;
+Amministrazione-Tesoreria;Configurazione portale G4;30.0;30;;G4;
+Amministrazione-Tesoreria;Predisposizione fondo cassa iniziale;5.0;5;Conferma installazione cassaforte;;
+Amministrazione-Tesoreria;Calendarizzazione primo prelievo;5.0;5;;G4;Tesoreria -> G4
+Amministrazione-Tesoreria;Check configurazione registratori fiscali;5.0;5;;IT;
+Amministrazione-Tesoreria;Attribuzione delega di versamento;8.0;8;Doc id dipendenti;HR;
+Amministrazione-Tesoreria;Attribuzione accesso INBIZ;8.0;8;Nominativo e documenti;Capo Area;
+Amministrazione-Tesoreria;Contratto cassaforte elettronica;25.0;25;;G4/Vichi;
+Amministrazione-Tesoreria;Installazione cassaforte elettronica;5.0;5;;G4/Vichi;
+Ufficio Acquisti;Definizione reparti;10.0;10;"""Pesi dei reparti/corner, tabella assortimenti""";Vendite;In funzione della location
+Ufficio Acquisti;Layout commerciale con facing;10.0;10;Definizione/condivisione metri lineari per famiglia;Merchandiser;Secondo tabella facing
+Ufficio Acquisti;Apertura assortimenti stagionali;3.0;3;Planimetria commerciale definitiva;Merchandiser;
+Ufficio Acquisti;Lettera fornitori;10.0;10;Dati per emissione lettera notifica apertura;Amministrazione/Uff. Tecnico/Informatica;
+Ufficio Tecnico;FASE 1;;;;;
+Ufficio Tecnico;Sopralluoghi e visione immobile;120.0;~120 (da: 90/120);Bozza progetto struttura;Immobiliare-Sviluppo;
+Ufficio Tecnico;Sviluppo bozza progetto antincendio;90.0;90;Bozza progetto antincendio;Consulente antincendio;
+Ufficio Tecnico;Sviluppo bozza layout;90.0;90;Bozza layout;Ufficio Merchandising;
+Ufficio Tecnico;Sviluppo rendering/autorizzazione insegne;90.0;90;Preventivo/rendering/richiesta ente;Marketing;
+Ufficio Tecnico;"""Sviluppo pratiche (polveri, TVCC)""";90.0;90;Dati e relazioni;"""Consulenti, Uff. Risorse Umane""";
+Ufficio Tecnico;Progettazione impianti e computo;60.0;60;Bozza progetto/layout;Progettisti;
+Ufficio Tecnico;Gara d'appalto;14.0;14;Preventivi;Imprese/Progettista;
+Ufficio Tecnico;Richiesta preventivi accessori;60.0;60;Preventivi;Fornitori;"""Cassaforte, tenda, sezionatrice"""
+Ufficio Tecnico;FASE 2;;;;;
+Ufficio Tecnico;Inizio lavori impianti;60.0;~60 (da: 30-60);;Impresa;
+Ufficio Tecnico;Attivazione cabina elettrica/allarme;90.0;~90 (da: 60-90);;Impresa;
+Ufficio Tecnico;Installazione ponte radio;7.0;7;;Vigilanza/Uff. Sicurezza;
+Ufficio Tecnico;Fine lavori edili interni;90.0;~90 (da: 60-90);;Impresa edile;
+Ufficio Tecnico;FASE 3;;;;;
+Ufficio Tecnico;Consegna chiavi al commerciale;1.0;1;Presenza Direttore/Capo Area;;
+Ufficio Tecnico;"""Arrivo attrezzature (muletti, ecc.)""";40.0;~40 (da: 30-40);;Fornitore;
+Ufficio Tecnico;Montaggio insegne;7.0;7;;Fornitore;
+Ufficio Tecnico;Collaudo impianti;14.0;14;;Imprese/Consulente;
+Ufficio Tecnico;Raccolta documenti per SCIA;30.0;30;Documentazione impianti;Impresa/Consulente;
+Ufficio Tecnico;Deposito SCIA (VVF e Commerciale);7.0;7;Documentazione;Consulente;
+Ufficio IT;Creazione anagrafica su SAP;3.0;3;"""Indirizzo, Mq, n° casse, responsabile pv""";Capo Area;
+Ufficio IT;Configurazione anagrafica negozio;5.0;5;"""Conti banca, pianificazione prelievi, assortimenti""";"""Tesoreria, Logistica, Acquisti, Co.Ge.""";
+Ufficio IT;Inizializzazione Omnipos / BW;1.0;1;Niente;;
+Ufficio IT;Preparazione kit apertura;5.0;5;"""PC nuovo, persona per consegna""";Capo Area;"""Kit include Router UMTS, stampante, 1 PC"""
+Ufficio IT;Richiesta e preparazione computer;5.0;5;Numero totale dei pc;Capo Area;Inviare richiesta al fornitore in anticipo
+Ufficio IT;"""Richiesta casse, stampanti, terminalini""";30.0;30;"""Indirizzo stabile, rete dati funzionante""";Merchandising (post installazione banchi);
+Ufficio IT;Richiesta linea dati (principale/secondaria);30.0;30;"""Indirizzo, tipologia stabile, info contratto prec.""";"""Capo Area, Ufficio Tecnico""";Incontro per decidere posizionamento prese
+Ufficio IT;Richiesta linea fonia (TIM);30.0;30;"""Indirizzo, tipologia stabile, info contratto prec.""";"""Capo Area, Ufficio Tecnico""";
+Ufficio IT;Richiesta e-fax;2.0;2;"""Indirizzo, numero di telefono""";;
+Ufficio IT;Richiesta Stampanti Ricoh;30.0;30;"""Persona per consegna, corrente, rete""";;
+Ufficio IT;Richiesta centralino e telefoni;30.0;30;n° telefoni fissi e cordless;"""Capo Area, Ufficio Tecnico""";Incontro per decidere posizionamento prese
+Ufficio IT;Installazione apparati di rete e Wi-Fi;10.0;10;Rete dati funzionante;;
+Ufficio IT;Installazione impianto cuffiette;2.0;2;Rete dati funzionante;Ufficio Tecnico;Incontro per decidere posizionamento prese
+Area Vendita;Definizione CA competenza;1.0;1;;Responsabile vendite;
+Area Vendita;Definizione CN start-up;30.0;30;;Responsabile vendite/Capo area;
+Area Vendita;Riunione referenti funzione aziendale;1.0;1;Conferma nominativi;Capo servizio;
+Area Vendita;Condivisione proposte lay out;5.0;5;Bozza piantina lay out;Ufficio merchandising;
+Area Vendita;Sopralluogo congiunto;1.0;1;Bozza piantina;Uff. Merchandising / Uff. Tecnico;
+Area Vendita;Definizione squadra allestitori;1.0;1;Planning programma allestitori;Capo area vendite;
+Area Vendita;Formazione personale neo assunto;30.0;30;"""Individuazione negozio scuola, lettere""";Ufficio personale/Capo area;
+Area Vendita;Apertura utenza De Cecco (divise);3.0;3;Credenziali portale;Ufficio marketing;Autorizza CN all'ordine
+Area Vendita;Inizio video fasi apertura social;53.0;53;Supporto per costruzione video;Ufficio marketing;
+Area Vendita;Condivisione piano marketing;5.0;5;Piano dettagliato e costi;Uff. Marketing / Resp. Vendite;
+Area Vendita;Definizione e prenotazione albergo;1.0;1;Nominativi persone in supporto;Capi area;
+Area Vendita;Emissione ordini materiale consumo;2.0;2;Liste articoli per ordini;Capo negozio/Capo area;
+Area Vendita;Emissione ordini merce;10.0;10;"""Elenco facing, layout aggiornato""";"""Merchandising, C. Gestione, Acquisti""";
+Area Vendita;Emissione ordini espositori;2.0;2;Elenco articoli per espositori;Ufficio merchandising;
+Area Vendita;Emissione ordini materiale link on line;1.0;1;Apertura utenze;Direzione vendite;
+Area Vendita;Definizione volantino;14.0;14;Proposta articoli con file prestazionale;Ufficio acquisti-marketing;
+Area Vendita;Definizione articoli gadget apertura;1.0;1;Proposta articoli per gadget;Ufficio marketing;
+Area Vendita;Reperimento personale supporto;5.0;5;Elenco nominativi addetti;Capi area;
+Area Vendita;Realizzazione pianta comm. volantino;1.0;1;Bozza volantino e lay out negozio;Marketing - Merchandising;
+Area Vendita;Organizzazione scarico merci;1.0;1;"""Timbri, registro scarico merci""";Affari generali-marketing;
+Area Vendita;Consegna eventuale container;1.0;1;Coordinamento posizione;Uff. Tecnico / Resp. Vendite;
+Area Vendita;Definizione cartelli toponomastici;1.0;1;Posizionamento cartelli;Merchandising / Resp. Vendite;
+Area Vendita;Definizione planning interventi;7.0;7;Elenco fornitori servizio allestimento;C. Gestione-Uff. Acquisti;
+Area Vendita;Richiesta arredi uffici/spogliatoi;30.0;30;Planimetrie uffici;Merchandising / Uff. Tecnico;
+Area Vendita;Allestimento commerciale;35.0;35;"""Programma, disponibilità allestitori""";Capo area vendite;
+Area Vendita;Organizzazione catering e cena;1.0;1;Individuazione ditta/location;Marketing;
+Area Vendita;Consegna divise e riunione;1.0;1;Elenco personale di negozio;Supporto capo negozio;
+Area Vendita;Supporto casse e assistenza vendita;2.0;2;Disponibilità e nominativi;Capi area;
+Marketing;Cartelli stradali;75.0;75;Brief su intenzioni;Piero;
+Marketing;Definizione attività apertura;60.0;60;Brief su intenzioni;Piero;
+Marketing;Cartelli reparto;52.0;52;Planimetria;Merchandising;
+Marketing;Volantino;30.0;30;Excel con elenco articoli;Capo area/Buyers;Possibilmente file già definitivo
+Marketing;Didattica interna;21.0;21;Foto;Allestitore/Capo negozio;"""Copertura box, vetrine, tintometro etc"""
+Marketing;Creazione scheda negozio sito;20.0;20;"""Dati anagrafici, orari, servizi, foto""";Capo area;
+Marketing;Apertura utenza Gateasy (divise);14.0;14;Dati negozio;Capo area;
+Marketing;Invito;14.0;14;Orario inaugurazione;Capo area;
+Logistica;LOGISTICA;;;;;
+Logistica;Calendario ordini/consegne;1.0;1;Riferimenti PdV;CLO;
+Logistica;Planning 1° impianto ordini;;In corso apertura;Numeri ordine;Capoarea;
+Logistica;Rifornimento attrezzature;;In corso apertura;Elenco attrezzature;Merchandising;
+Logistica;SICUREZZA/ANTITACCHEGGIO;;;;;
+Logistica;Condivisione planimetria barriera casse;;Prima possibile;Planimetrie definitive;Merchandising;
+Logistica;Sopralluogo tecnico;30.0;30 ante apertura;Condivisione data;Checkpoint Systems;
+Logistica;Contratto noleggio barriere;15.0;15 ante apertura;Contratto finale;Checkpoint Systems;
+Logistica;Consegna/Installazione;7.0;7 ante apertura;Data consegna/installazione;Checkpoint Systems;
+Logistica;SICUREZZA/VIGILANZA;;;;;
+Logistica;Modifica contratto quadro;15.0;15 ante apertura;Data certa apertura;Legale/G4 Vigilanza;
+Logistica;Sopralluogo per periferica;15.0;15 ante apertura;Data completamento impianto;Vendite/G4 Vigilanza;
+Logistica;Consegna/Installazione periferica;7.0;7 ante apertura;;G4 Vigilanza;
+Logistica;Contratto noleggio cassaforte;30.0;30 ante apertura;Data certa apertura;Legale/Co.Ge/Econocom;
+Logistica;Installazione cassaforte;7.0;7 ante apertura;;More One srl;
+Logistica;CORIPET / IN POST;;;;;
+Logistica;Predisposizione CORIPET;60.0;60 ante apertura;Planimetria, allacci corrente;Ufficio Tecnico;
+Logistica;Predisposizione IN POST;60.0;60 ante apertura;Planimetria, allacci corrente;Ufficio Tecnico;
+Logistica;Invio richiesta installazione CORIPET;50.0;50 ante apertura;Contratto e fattibilità;Fornitore;
+Logistica;Invio richiesta installazione IN POST;50.0;50 ante apertura;Contratto e fattibilità;Fornitore;
+Logistica;Installazione CORIPET;15.0;15 ante apertura;Date conferma intervento;Fornitore;
+Logistica;Installazione IN POST;15.0;15 ante apertura;Date conferma intervento;Fornitore;
+Personale;Definizione fabbisogno risorse;180.0;~180 (da: 6-4 mesi ante apertura);"""Info su n° addetti, PT/FT, formazione, data inserimento""";Area Manager / Vendite;
+Personale;"Aggiornamento ""lavora con noi"" / CVING";180.0;~180 (da: 6-4 mesi ante apertura);;;Per sponsorizzazioni INDEED
+Personale;Screening CV e colloqui;;Pre-apertura;Piattaforma Cving / Teams;;
+Personale;Presentazione rosa candidati;;Pre-apertura;;Area Manager;
+Personale;Comunicazione a Sintesi (Medico);60.0;~60 (da: Entro 2 mesi da inserimento);Indirizzo mail e tel. negozio;;
+Personale;Apertura posizioni INPS;30.0;~30 (da: Entro 1 mese da allestimento);"""Indirizzo, num cdc, data apertura""";FINPRO / Amm. Personale;
+Personale;Creazione cdc Zucchetti;30.0;~30 (da: Entro 1 mese da allestimento);"""Num cdc, indirizzo, mail, data avvio""";FINPRO / Amm. Personale;
+Personale;Configurazione Timbratore Zucchetti;;All'avvio risorse;Codice timbratore;IT;
+Personale;Richiesta visita medica pre-assuntiva;30.0;~30 (da: Entro 1 mese da inserimento);Dati anagrafici e condizioni assunzione;;Per credenziali FAD
+Personale;Gestione amministrativa assunzioni;15.0;Entro 15 gg da assunzione;Dati/documenti candidati;Amm. Personale;
+Personale;"Comunicazione a ""Regalami il tuo Sogno""";15.0;Entro 15 gg da avvio risorse;Indirizzo mail negozio;;Per portale reportistica
+Personale;Configurazione ZScheduling;1.0;Alla presenza 1a risorsa attiva;;FINPRO;
+Personale;Formazione obbligatoria FAD;60.0;Entro 60 gg da assunzione;;;Tutto l'organico
+Personale;Formazione squadra emergenza/preposto;;Primi giorni di contratto;Nominativi regia;;
+Personale;Formazione attrezzature (CAR PLE);;Primi giorni di contratto;Nominativi addetti;;
